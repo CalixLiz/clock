@@ -1,0 +1,11 @@
+
+.container{
+	width: 90%;
+	height: 90%;
+	position: absolute;
+	margin-top: 20px;
+	margin-left: 25px;
+	padding-top: 400px;
+	text-align: center;
+	font-size: 80px;
+}
